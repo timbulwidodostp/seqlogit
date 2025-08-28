@@ -1,4 +1,21 @@
-D 'DEA': Data envelopment analysis
+D 'seqlogit': Fit a sequential logit model Use seqlogit With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F seqlogit.ado
+F seqlogit.sthlp
+F seqlogit10.ado
+F seqlogit10.hlp
+F seqlogit10_p.ado
+F seqlogit10_postestimation.hlp
+F seqlogit10_sensitivity.hlp
+F seqlogit_lf.ado
+F seqlogit_p.ado
+F seqlogit_postestimation.sthlp
+F seqlogit_sensitivity.sthlp
+F seqlogit_uh_lf.ado
+F seqlogitdecomp.ado
+F seqlogitdecomp.hlp
+F seqlogitdecomp10.ado
+F seqsens.ado
+F uhdesc.ado
+F uhdesc.hlp
+F uhdesc10.ado
